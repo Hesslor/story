@@ -4,7 +4,7 @@ import React from 'react'
 const panni = () => {
   return (
     <View>
-      <Text>panniiiiii</Text>
+      <Text>panniiiiii kutty</Text>
     </View>
   )
 }
